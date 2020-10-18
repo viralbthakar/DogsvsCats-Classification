@@ -21,3 +21,9 @@ identify ./data/train/cat.0.jpg
 Our project structure looks something like this 
 
 ![Project Structure](./imgs/1.png)
+
+And the images are placed under the `train` directory and they look something like this
+![Images Structure](./imgs/2.png)
+
+We can look into the brief details about any image sample.
+![Image Details](./imgs/3.png)
